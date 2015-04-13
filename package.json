@@ -21,7 +21,11 @@
     "underscore"             : "1.7.0",
     "bluebird"               : "2.3.2",
     "glob"                   : "4.0.5",
-    "winston"                : "0.7.3"
+    "winston"                : "0.7.3",
+    "chalk"                  : "~1.0.0",
+    "text-table"             : "~0.2.0",
+    "log-symbols"            : "~1.0.2",
+    "pluralize"              : "~1.1.2"
   },
   "devDependencies": {
     "gulp"                   : "3.8.8",
